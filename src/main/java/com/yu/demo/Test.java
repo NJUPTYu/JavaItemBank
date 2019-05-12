@@ -1,4 +1,4 @@
-package com.yu.test;
+package com.yu.demo;
 
 /**
  * @author YuGY
