@@ -1,4 +1,4 @@
-package com.yu.test;
+package com.yu.demo;
 
 /**
  * @author YuGY
@@ -10,6 +10,9 @@ public class Test {
         System.out.println("Test");
         System.out.println("Test");
         System.out.println("Test");
-        System.out.println("Ok");System.out.println("Ok");
+        System.out.println("Ok");
+        System.out.println("dadddad");
     }
 }
+
+
